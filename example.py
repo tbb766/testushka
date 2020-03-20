@@ -1,4 +1,4 @@
 print ("Hello, World!")
 a = 3
 b = ""
-s = []
+s = [2]
